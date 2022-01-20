@@ -1,0 +1,38 @@
+.panda-carousel-bg {
+  background-color: #FEEAE9;
+}
+.categories-image img {
+  width: 100px;
+}
+.categories-bg-watch {
+  background-color: #FFAB2D;
+}
+.categories-bg-bag {
+  background-color: #FF458F;
+}
+.categories-bg-shoes {
+  background-color: #414CFC;
+}
+.btn-submit {
+  background-color: #e63333;
+  color: white;
+  outline: 0;
+  padding: 10px 20px;
+  border: 0;
+  border-radius: 10px;
+  width: 150px;
+  font-size: 18px;
+}
+.subscribe-bg {
+  background-color: #FEECEC;
+}
+.submit-btn {
+  background-color: #FF3A88;
+  color: white;
+  outline: 0;
+  border: 0;
+  padding: 15px 30px;
+  border-radius: 15px;
+  font-size: 20px;
+  margin-top: 20px;
+}
